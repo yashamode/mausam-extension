@@ -5,13 +5,13 @@
     "manifest_version":3,
     "author":"Yash Amode",
     "icons":{
-        "48":"../assets/weather48_.png",
-        "64":"../assets/weather64_.png",
-        "128":"../assets/weather128_.png"     
+        "48":"weather48_.png",
+        "64":"weather64_.png",
+        "128":"weather128_.png"     
     },
     "action":{
         "default_popup":"index.html",
-        "default_icon":"../assets/weather48_.png"
+        "default_icon":"weather48_.png"
     }
 
 }
