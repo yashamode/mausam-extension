@@ -1,0 +1,17 @@
+{
+    "name":"Mausam",
+    "version":"1.0.0",
+    "description":"An extension to get the weather of a city",
+    "manifest_version":3,
+    "author":"Yash Amode",
+    "icons":{
+        "48":"../assets/weather48_.png",
+        "64":"../assets/weather64_.png",
+        "128":"../assets/weather128_.png"     
+    },
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"../assets/weather48_.png"
+    }
+
+}
